@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "utils",
+    "pageId": "Ecommerce Store",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Ecommerce Store_utils",
+  "deleted": false,
+  "gitSyncId": "64c4c22f9a52af6185639303_64c4c26a9a52af6185639318"
+}

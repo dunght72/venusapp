@@ -1,0 +1,42 @@
+{
+    "widgetName": "Text23Copy",
+    "displayName": "Text",
+    "iconSVG": "/static/media/icon.97c59b523e6f70ba6f40a10fc2c7c5b5.svg",
+    "searchTags": [
+        "typography",
+        "paragraph",
+        "label"
+    ],
+    "topRow": 38,
+    "bottomRow": 42,
+    "type": "TEXT_WIDGET",
+    "hideCard": false,
+    "animateLoading": true,
+    "overflow": "NONE",
+    "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+    "dynamicTriggerPathList": [],
+    "leftColumn": 53,
+    "dynamicBindingPathList": [
+        {"key": "fontFamily"},
+        {"key": "borderRadius"}
+    ],
+    "shouldTruncate": false,
+    "text": "$798",
+    "key": "kdduno4axh",
+    "isDeprecated": false,
+    "rightColumn": 63,
+    "textAlign": "LEFT",
+    "dynamicHeight": "FIXED",
+    "widgetId": "u794cp09fs",
+    "isVisible": true,
+    "fontStyle": "BOLD",
+    "textColor": "#db2777",
+    "version": 1,
+    "parentId": "psvza7h3h0",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "maxDynamicHeight": 9000,
+    "fontSize": "1.25rem",
+    "minDynamicHeight": 4
+}
